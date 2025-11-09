@@ -13,9 +13,6 @@ Este repositório contém:
 
 ## Arquitetura do Projeto de Testes
 
-- **API Java Spring Boot (projeto principal)**  
-  [https://github.com/ovitortadeu/challenge-java-springboot](https://github.com/ovitortadeu/challenge-java-springboot)
-
 - **Azure Boards / Test Plans**  
   - Plano baseado em requisitos (Requirements-based Suite) com épicos.  
   - 10 casos de teste manuais descritos e executáveis no Azure DevOps.
