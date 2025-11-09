@@ -2,7 +2,7 @@
 
 # Challenge Mottu – Compliance, Quality Assurance & Tests
 
-Repositório da disciplina **Compliance, Quality Assurance & Tests** do Challenge Mottu (FIAP).
+Repositório da disciplina **Compliance, Quality Assurance & Tests** do Challenge Mottu.
 
 Este repositório contém:
 - Plano de testes manuais no **Azure Boards / Test Plans**
